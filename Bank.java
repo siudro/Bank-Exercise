@@ -1,8 +1,8 @@
-package lab06;
+package bank;
 
 import java.util.ArrayList;
 
-public class Lab06 {
+public class Bank {
 
     public static void main(String[] args) {
         Account account = new Account(1122, 1000, "George");
